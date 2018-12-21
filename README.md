@@ -12,6 +12,7 @@ Tech :
 - Admin LTE
 
 Demo :
+- Xampp 3.2.2 php7
 - Clone repo
 - Import database
 - Login Admin = admin pass: admin
