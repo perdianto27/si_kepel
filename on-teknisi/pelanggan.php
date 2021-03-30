@@ -26,8 +26,8 @@
             <!-- /.box-header -->
             <div class="box-body">
             <div id="example1_wrapper" class="dataTables_wrapper form-inline dt-bootstrap">			
-	<!-- <span class="pull-left"><a href="#tambah_pelanggan" data-toggle="modal" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span>Tambah Pelanggan</a></span> -->
-	<div style="height:50px;"></div>
+	<!-- <span class="pull-left"><a href="#tambah_pelanggan" data-toggle="modal" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span>Tambah Pelanggan</a></span>
+	<div style="height:50px;"></div> -->
 	<div class="box-body table-responsive">
         <table id="keluhantable" class="table table-bordered table-striped">
 			<thead>
