@@ -4,10 +4,10 @@
       <!-- Sidebar user panel -->
       <div class="user-panel">
         <div class="pull-left image">
-          <img src="assets/img/avatar04.png" class="img-circle" alt="User Image">
+          <img src="assets/img/avatar5.png" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p>Teknisi</p>
+          <p>Admin</p>
           <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
         </div>
       </div>
@@ -36,7 +36,9 @@
         <li><a href="keluhan.php"><i class="fa fa-book"></i> <span>Data Keluhan</span></a></li>
         <li><a href="perbaikan.php"><i class="fa fa-folder"></i> <span>Data Perbaikan</span></a></li>
         <li class="header">LABELS</li>
+        <!-- <li><a href="admin.php"><i class="fa fa-circle-o text-red"></i> <span>Data Admin</span></a></li> -->
         <li><a href="teknisi.php"><i class="fa fa-circle-o text-yellow"></i> <span>Data Teknisi</span></a></li>
+        <li><a href="pelanggan.php"><i class="fa fa-circle-o text-aqua"></i> <span>Data Pelanggan</span></a></li>
       </ul>
     </section>
     <!-- /.sidebar -->

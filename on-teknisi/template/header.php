@@ -29,18 +29,22 @@
   <!-- bootstrap wysihtml5 - text editor -->
   <link rel="stylesheet" href="assets/css/bootstrap3-wysihtml5.min.css">
 
+    <!--Jika Tidak di download File Bootstrapnya silahkan gunakan link berikut-->
+  <!-- <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.css"> -->
+  <link rel="stylesheet" href="assets/css/dataTables.bootstrap.css">
+  
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <link rel="stylesheet" href="css/dataTables.bootstrap.css">
-  <!--Jika Tidak di download File Bootstrapnya silahkan gunakan link berikut-->
-  <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.css">
-  <script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
-  <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
-  <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+
+  <!-- jQuery 3 -->
+  <script src="assets/js/jquery.min.js"></script>
+  <!-- <script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script> -->
+  <!-- <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script> -->
+  <!-- <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.js"></script> -->
   <!--End Link yang langsung ke website nya -->
 
   <!-- Google Font -->
@@ -56,7 +60,7 @@
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>A</b>LT</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Halaman</b> Teknisi</span>
+      <span class="logo-lg"><b>Halaman</b> Admin</span>
     </a>
 
 <!-- Header Navbar: style can be found in header.less -->
@@ -98,16 +102,16 @@
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              <img src="assets/img/avatar04.png" class="user-image" alt="User Image">
-              <span class="hidden-xs">Teknisi</span>
+              <img src="assets/img/avatar5.png" class="user-image" alt="User Image">
+              <span class="hidden-xs">Admin</span>
             </a>
             <ul class="dropdown-menu">
               <!-- User image -->
               <li class="user-header">
-                <img src="assets/img/avatar04.png" class="img-circle" alt="User Image">
+                <img src="assets/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Teknisi - PT. Pandu Anugerah Analitika
+                  Admin - PT. Pandu Anugerah Analitika
                   <small>Member since Nov. 2018</small>
                 </p>
               </li>

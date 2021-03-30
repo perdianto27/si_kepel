@@ -29,18 +29,22 @@
   <!-- bootstrap wysihtml5 - text editor -->
   <link rel="stylesheet" href="assets/css/bootstrap3-wysihtml5.min.css">
 
+    <!--Jika Tidak di download File Bootstrapnya silahkan gunakan link berikut-->
+  <!-- <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.css"> -->
+  <link rel="stylesheet" href="assets/css/dataTables.bootstrap.css">
+  
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <link rel="stylesheet" href="css/dataTables.bootstrap.css">
-  <!--Jika Tidak di download File Bootstrapnya silahkan gunakan link berikut-->
-  <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.css">
-  <script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
-  <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
-  <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+
+  <!-- jQuery 3 -->
+  <script src="assets/js/jquery.min.js"></script>
+  <!-- <script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script> -->
+  <!-- <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script> -->
+  <!-- <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.js"></script> -->
   <!--End Link yang langsung ke website nya -->
 
   <!-- Google Font -->
