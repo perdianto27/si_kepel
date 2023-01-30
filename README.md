@@ -1,5 +1,5 @@
 # si_kepel
-Sistem Informasi Keluhan Pelanggan dengan PHP dan Mysql, Studi kasus di PT. Pandu Anugerah Analitika.
+Customer Complaint Information System using PHP and Mysql, case studies PT. Pandu Anugerah Analitika.
 
 <p align="center" ><img height="400px" src="https://github.com/perdianto27/si_kepel/blob/master/assets/img/sikepel.png"> </p>
 
